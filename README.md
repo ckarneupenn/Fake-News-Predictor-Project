@@ -5,4 +5,4 @@ The dataset for this project can be found here https://drive.google.com/drive/fo
 * Use CountVectorizer() to create the Bag of Words representation of each news and to build a prediction model using Multinomial Naive bayes (MultinomialNB()) algorithm in the sklearn module.
 ### Technologies used:
 * Python - pandas, seaborn, matplotlib, numpy, sklearn, CountVectorizer() etc.
-All the analyses can be found in the Fake News Detector ipynb file.
+### All the analyses can be found in the Fake News Detector ipynb file.
